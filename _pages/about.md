@@ -13,7 +13,7 @@ My research focus on developing fundamental algorithms for computer vision and d
 
 
 Education Experiments
-======
+------
 * Ph.D Candidate in Electical & Information Engineering, 2019-present, The University of Sydney
 * M.Phil. in [IIAU-LAB](http://ice.dlut.edu.cn/lu/), 2016-2019, Dalian University of Technology
 * B.Eng. in Electronic Information and Electical Engineering, 2012-2016, Dalian University of Technology
