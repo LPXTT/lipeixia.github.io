@@ -22,8 +22,3 @@ Working Experiments
 ------
 * Intern in the Urban Computing Research and Development Group (UCG) of [Sensetime](https://www.sensetime.com/cn), 2019.06-2019.12
 
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
