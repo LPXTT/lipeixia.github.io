@@ -20,7 +20,7 @@ Education Experiments
 
 Working Experiments
 ------
-* Intern in Sensetime company
+* Intern in the Urban Computing Research and Development Group (UCG) of [Sensetime](https://www.sensetime.com/cn), 2019.06-2019.12
 
 
 
