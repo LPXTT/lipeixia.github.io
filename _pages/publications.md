@@ -21,7 +21,7 @@ CONFERENCE PAPERS
 2. Boyu Chen, Dong Wang, Peixia Li, Shuang Wang, and Huchuan Lu. ["Real-time'Actor-Critic'Tracking."](https://openaccess.thecvf.com/content_ECCV_2018/html/Boyu_Chen_Real-time_Actor-Critic_Tracking_ECCV_2018_paper.html) In Proceedings of the European conference on computer vision (ECCV), pp. 318-334. 2018.
 ------
 
-CONFERENCE PAPERS
+JOURNAL PAPERS
 ------
 1. Boyu Chen, Wenlong Guan, Peixia Li, Naoki Ikeda, Kosuke Hirasawa, and Huchuan Lu. ["Residual multi-task learning for facial landmark localization and expression recognition."](https://www.sciencedirect.com/science/article/abs/pii/S0031320321000807) Pattern Recognition 115 (2021): 107893.
 2. Peixia Li, Boyu Chen, Dong Wang, and Huchuan Lu. ["Visual tracking by dynamic matching-classification network switching."](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302223) Pattern Recognition 107 (2020): 107419.
