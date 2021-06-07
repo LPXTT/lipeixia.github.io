@@ -29,3 +29,8 @@ JOURNAL PAPERS
 4. Peixia Li, Dong Wang, Lijun Wang, and Huchuan Lu. ["Deep visual tracking: Review and experimental comparison."](https://www.sciencedirect.com/science/article/abs/pii/S0031320317304612) Pattern Recognition 76 (2018): 323-338.
 5. Huchuan Lu, Peixia Li and Dong Wang. ["Visual object tracking: a survey."](http://manu46.magtech.com.cn/Jweb_prai/EN/abstract/abstract11444.shtml) Pattern Recognition and Artificial Intelligence 31, no. 1 (2018): 61-76.
 ------
+
+OTHERS
+------
+1. Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, and Wanli Ouyang. ["Real-Time Visual Object Tracking via Few-Shot Learning."](https://arxiv.org/pdf/2103.10130.pdf) arXiv preprint arXiv:2103.10130 (2021).
+------
