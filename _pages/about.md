@@ -27,5 +27,5 @@ Education Experiments
 
 Working Experiments
 ------
-* 2019.06-2020.06: Intern in the Urban Computing Research and Development Group (UCG) of [Sensetime](https://www.sensetime.com/cn).
+* 2019.06-2020.06: Intern in the Urban Computing Research and Development Group of [Sensetime](https://www.sensetime.com/cn).
 
