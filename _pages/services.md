@@ -5,6 +5,12 @@ permalink: /services/
 author_profile: true
 ---
 
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
 * Reviewer, The Conference on Computer Vision and Pattern Recognition (CVPR), 2022
 * Reviewer, International Conference on Computer Vision (ICCV), 2022
 * Reviewer, Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS), 2021
