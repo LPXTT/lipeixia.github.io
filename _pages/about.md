@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
 Hi, I am Peixia, a DPhil (PhD) student of [SigmaLab](https://sigmalab-usyd.github.io/), the University of Sydney, supervised by [Prof.Wanli Ouyang](https://wlouyang.github.io/) and [Prof.Luping Zhou](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html). I received my B.Eng. degree and M.Phil. degree from [Dalian University of Technology](https://www.dlut.edu.cn/) supervised by [Prof.Huchuan Lu](http://ice.dlut.edu.cn/lu/).
 My research focus on developing fundamental algorithms for computer vision and deep learning, specifically on visual object tracking, object detection and neural architecture search. 
 
