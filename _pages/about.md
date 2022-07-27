@@ -27,5 +27,6 @@ Education Experiments
 
 Working Experiments
 ------
+* 2022.06-2022.12: Applied Scientist Intern, [Amazon](https://www.amazon.com/), Australia.
 * 2019.06-2020.06: Intern in the Urban Computing Research and Development Group of [Sensetime](https://www.sensetime.com/cn).
 
