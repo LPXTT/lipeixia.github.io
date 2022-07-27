@@ -21,12 +21,12 @@ Always welcome cooperations and discussions.
 
 Education Experiments
 ------
-* 2019-present: Ph.D Candidate in Electical & Information Engineering, The University of Sydney
-* 2016-2019: M.Phil. in [IIAU-LAB](http://ice.dlut.edu.cn/lu/), Dalian University of Technology
-* 2012-2016: B.Eng. in Electronic Information and Electical Engineering, Dalian University of Technology
+* 2019-present: Ph.D Candidate in Electical & Information Engineering, The University of Sydney, Australia.
+* 2016-2019: M.Phil. in [IIAU-LAB](http://ice.dlut.edu.cn/lu/), Dalian University of Technology, China.
+* 2012-2016: B.Eng. in Electronic Information and Electical Engineering, Dalian University of Technology, China.
 
 Working Experiments
 ------
 * 2022.06-2022.12: Applied Scientist Intern, [Amazon](https://www.amazon.com/), Australia.
-* 2019.06-2020.06: Intern in the Urban Computing Research and Development Group of [Sensetime](https://www.sensetime.com/cn).
+* 2019.06-2020.06: Intern in the Urban Computing Research and Development Group of [Sensetime](https://www.sensetime.com/cn), China.
 
