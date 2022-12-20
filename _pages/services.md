@@ -11,6 +11,7 @@ author_profile: true
 }
 </style>
 
+* Volunteer, The International Conference on Digital Image Computing: Techniques and Applications (DICTA), 2022
 * Reviewer, The Conference on Computer Vision and Pattern Recognition (CVPR), 2022
 * Reviewer, International Conference on Computer Vision (ICCV), 2022
 * Reviewer, Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS), 2021
