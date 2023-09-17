@@ -23,7 +23,7 @@ author_profile: true
 
 CONFERENCE PAPERS
 ------
-7. **Peixia Li**, Pulak Purkait, Thalaiyasingam Ajanthan, Majid Abdolshah, Ravi Garg, Hisham Husain, Chenchen Xu, Stephen Gould, Wanli Ouyang, Anton van den Hengel. Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Group. IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
+7. **Peixia Li**, Pulak Purkait, Thalaiyasingam Ajanthan, Majid Abdolshah, Ravi Garg, Hisham Husain, Chenchen Xu, Stephen Gould, Wanli Ouyang, Anton van den Hengel. ["Semi-Supervised Semantic Segmentation under Label Noise via Diverse Learning Group"](https://lpxtt.github.io//publications/). IEEE/CVF International Conference on Computer Vision (ICCV), 2023.
 6. Boyu Chen[^1], **Peixia Li**[^1], Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang. ["Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking"](https://arxiv.org/pdf/2203.05328.pdf). The European Conference on Computer Vision (ECCV), 2022. [(CODE)](https://github.com/LPXTT/SimTrack)
 5. Qiuhong Shen, Lei Qiao, Jinyang Guo, **Peixia Li**, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang. ["Unsupervised Learning of Accurate Siamese Tracking"](https://arxiv.org/pdf/2204.01475.pdf). IEEE Conference on Computer Vision and Pattern Recognition (CVPR) <font color="red">Oral</font>, 2022. [(CODE)](https://github.com/FlorinShum/ULAST)
 4. Boyu Chen[^1], **Peixia Li**[^1], Chuming Li, Baopu Li, Lei Bai, Chen Lin, Ming Sun, Junjie yan, Wanli Ouyang. ["GLiT: Neural Architecture Search for Global and Local Image Transformer."](https://arxiv.org/pdf/2107.02960.pdf) IEEE/CVF International Conference on Computer Vision (ICCV), 2021. [(CODE)](https://github.com/bychen515/GLiT)
